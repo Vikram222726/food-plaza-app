@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/food-plaza-app/static/css/main.df97e032.chunk.css",
+    "main.js": "/food-plaza-app/static/js/main.f00f37d5.chunk.js",
+    "main.js.map": "/food-plaza-app/static/js/main.f00f37d5.chunk.js.map",
+    "runtime-main.js": "/food-plaza-app/static/js/runtime-main.86aef1bc.js",
+    "runtime-main.js.map": "/food-plaza-app/static/js/runtime-main.86aef1bc.js.map",
+    "static/css/2.6c52f92b.chunk.css": "/food-plaza-app/static/css/2.6c52f92b.chunk.css",
+    "static/js/2.a23d5338.chunk.js": "/food-plaza-app/static/js/2.a23d5338.chunk.js",
+    "static/js/2.a23d5338.chunk.js.map": "/food-plaza-app/static/js/2.a23d5338.chunk.js.map",
+    "static/js/3.2a37d6bf.chunk.js": "/food-plaza-app/static/js/3.2a37d6bf.chunk.js",
+    "static/js/3.2a37d6bf.chunk.js.map": "/food-plaza-app/static/js/3.2a37d6bf.chunk.js.map",
+    "index.html": "/food-plaza-app/index.html",
+    "static/css/2.6c52f92b.chunk.css.map": "/food-plaza-app/static/css/2.6c52f92b.chunk.css.map",
+    "static/css/main.df97e032.chunk.css.map": "/food-plaza-app/static/css/main.df97e032.chunk.css.map",
+    "static/js/2.a23d5338.chunk.js.LICENSE.txt": "/food-plaza-app/static/js/2.a23d5338.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/food-plaza-app/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/App.css": "/food-plaza-app/static/media/pizza2.a2533cbf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86aef1bc.js",
+    "static/css/2.6c52f92b.chunk.css",
+    "static/js/2.a23d5338.chunk.js",
+    "static/css/main.df97e032.chunk.css",
+    "static/js/main.f00f37d5.chunk.js"
+  ]
+}
